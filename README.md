@@ -1,16 +1,8 @@
-# GameOfLife
-For a space that is populated
-* Each cell with one or no neighbors dies, as if by solitude.
-* Each cell with four or more neighbors dies, as if by overpopulation.
-* Each cell with two or three neighbors survives.
+# Todo
+
+Use your GenAI tool to understand the behaviour of the existing code.
 
 
-For a space that is empty or unpopulated
-* Each cell with three neighbors becomes populated.
+# Compare with rules defined
 
-
-Try it on 
-* https://playgameoflife.com/
-
-
-![Alt text](./example.JPG?raw=true "Rules examples")
+![Rules](./Rules/Rules/md "Rules")
